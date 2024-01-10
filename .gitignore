@@ -1,1 +1,8 @@
+*.pyc
 .ipynb_checkpoints/
+output/
+examples/
+build/
+dist/
+*.exe
+*.spec
